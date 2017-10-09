@@ -1,3 +1,4 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 0.2.2 -
+* fixed scope of (un)fold-here to include "bracketing" regex regions
+
+## 0.2.1 - First Release
