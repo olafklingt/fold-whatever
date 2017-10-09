@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Fold Whatever",
+          "submenu": [
+            {
+              "label": "Fold All",
+              "command": "fold-whatever:fold-all"
+            },
+            {
+              "label": "Unfold All",
+              "command": "fold-whatever:unfold-all"
+            },
+            {
+              "label": "Fold Line",
+              "command": "fold-whatever:fold-line"
+            },
+            {
+              "label": "Unfold Line",
+              "command": "fold-whatever:unfold-line"
+            },
+            {
+              "label": "Fold Here",
+              "command": "fold-whatever:fold-here"
+            },
+            {
+              "label": "Unfold Here",
+              "command": "fold-whatever:unfold-here"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
