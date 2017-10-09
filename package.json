@@ -1,8 +1,8 @@
 {
   "name": "fold-whatever",
   "main": "./lib/fold-whatever",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "This package provide the functionality to specify ranges to be folded with the help of regexes. The default values are are the regexes suitable to fold pandoc inlined footnodes and references.",
   "keywords": [
   ],
   "repository": "https://github.com/olafklingt/fold-whatever",
