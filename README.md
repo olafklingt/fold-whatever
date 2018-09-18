@@ -4,4 +4,15 @@ This package provide the functionality to specify ranges to be folded with the h
 
 This is my first atom package I am interested in comments and recommendations.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## 0.2.3 -
+* add toggle
+* fixed curser jump, stays now at its position
+* tested if multi-line regexes are possible. which is the case but they are only matched by toggle/[un]fold-all.
+
+## 0.2.2 -
+* fixed scope of (un)fold-here to include "bracketing" regex regions
+
+## 0.2.1 - First Release
+[un]fold-here : [un]folds at curser when a regex matches
+[un]fold-line : [un]folds all matches in a line
+[un]fold-all : [un]folds all matches in a file

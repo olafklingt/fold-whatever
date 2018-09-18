@@ -7,6 +7,18 @@
           "label": "Fold Whatever",
           "submenu": [
             {
+              "label": "Toggle All",
+              "command": "fold-whatever:toggle-all"
+            },
+            {
+              "label": "Toggle Line",
+              "command": "fold-whatever:toggle-line"
+            },
+            {
+              "label": "Toggle Here",
+              "command": "fold-whatever:toggle-here"
+            },
+            {
               "label": "Fold All",
               "command": "fold-whatever:fold-all"
             },
