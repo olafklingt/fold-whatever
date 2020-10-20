@@ -6,7 +6,9 @@ This is my first atom package. I am grateful for any comments and suggestions.
 
 ## Installation
 
-TODO
+```
+apm install fold-whatever
+```
 
 ## Examples
 
@@ -27,7 +29,7 @@ Match over multiple lines. Line-breaking spaces have to be matched:
 ### 0.2.4 -
 * add toggle
 * fixed curser jump, stays now at its position
-* tested if multi-line regexes are possible. which is the case but they are only matched by toggle/[un]fold-all.
+* tested if multi-line regexes are possible. Which is the case, but they are only matched by toggle/[un]fold-all.
 
 ### 0.2.2 -
 * fixed scope of (un)fold-here to include "bracketing" regex regions
@@ -36,11 +38,3 @@ Match over multiple lines. Line-breaking spaces have to be matched:
 * [un]fold-here : [un]folds at curser when a regex matches
 * [un]fold-line : [un]folds all matches in a line
 * [un]fold-all : [un]folds all matches in a file
-
-## Contribute
-
-TODO
-
-## License
-
-TODO
