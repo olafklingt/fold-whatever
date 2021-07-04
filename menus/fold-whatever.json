@@ -41,6 +41,114 @@
             {
               "label": "Unfold Here",
               "command": "fold-whatever:unfold-here"
+            },
+            {
+              "label": "Toggle All 1st",
+              "command": "fold-whatever:toggle-all-1st"
+            },
+            {
+              "label": "Toggle All 2nd",
+              "command": "fold-whatever:toggle-all-2nd"
+            },
+            {
+              "label": "Toggle All 3rd",
+              "command": "fold-whatever:toggle-all-3rd"
+            },
+            {
+              "label": "Toggle All 4th",
+              "command": "fold-whatever:toggle-all-4th"
+            },
+            {
+              "label": "Toggle All 5th",
+              "command": "fold-whatever:toggle-all-5th"
+            },
+            {
+              "label": "Toggle All 6th",
+              "command": "fold-whatever:toggle-all-6th"
+            },
+            {
+              "label": "Toggle All 7th",
+              "command": "fold-whatever:toggle-all-7th"
+            },
+            {
+              "label": "Toggle All 8th",
+              "command": "fold-whatever:toggle-all-8th"
+            },
+            {
+              "label": "Toggle All 9th",
+              "command": "fold-whatever:toggle-all-9th"
+            },
+            {
+              "label": "Fold All 1st",
+              "command": "fold-whatever:fold-all-1st"
+            },
+            {
+              "label": "Fold All 2nd",
+              "command": "fold-whatever:fold-all-2nd"
+            },
+            {
+              "label": "Fold All 3rd",
+              "command": "fold-whatever:fold-all-3rd"
+            },
+            {
+              "label": "Fold All 4th",
+              "command": "fold-whatever:fold-all-4th"
+            },
+            {
+              "label": "Fold All 5th",
+              "command": "fold-whatever:fold-all-5th"
+            },
+            {
+              "label": "Fold All 6th",
+              "command": "fold-whatever:fold-all-6th"
+            },
+            {
+              "label": "Fold All 7th",
+              "command": "fold-whatever:fold-all-7th"
+            },
+            {
+              "label": "Fold All 8th",
+              "command": "fold-whatever:fold-all-8th"
+            },
+            {
+              "label": "Fold All 9th",
+              "command": "fold-whatever:fold-all-9th"
+            },
+            {
+              "label": "Unfold All 1st",
+              "command": "fold-whatever:unfold-all-1st"
+            },
+            {
+              "label": "Unfold All 2nd",
+              "command": "fold-whatever:unfold-all-2nd"
+            },
+            {
+              "label": "Unfold All 3rd",
+              "command": "fold-whatever:unfold-all-3rd"
+            },
+            {
+              "label": "Unfold All 4th",
+              "command": "fold-whatever:unfold-all-4th"
+            },
+            {
+              "label": "Unfold All 5th",
+              "command": "fold-whatever:unfold-all-5th"
+            },
+            {
+              "label": "Unfold All 6th",
+              "command": "fold-whatever:unfold-all-6th"
+            },
+            {
+              "label": "Unfold All 7th",
+              "command": "fold-whatever:unfold-all-7th"
+            },
+            {
+              "label": "Unfold All 8th",
+              "command": "fold-whatever:unfold-all-8th"
+            },
+            {
+              "label": "Unfold All 9th",
+              "command": "fold-whatever:unfold-all-9th"
             }
           ]
         }

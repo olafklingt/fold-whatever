@@ -28,6 +28,9 @@ Match over multiple lines. Line-breaking spaces have to be matched:
 
 ## Changelog
 
+### 0.2.5 -
+* add toggle/[un]fold all 1st 2nd 3rd 4th 5th 6th 7th 8th 9th regex
+
 ### 0.2.4 -
 * add toggle
 * fixed cursor jump, stays now at its position
